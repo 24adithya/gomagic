@@ -35,3 +35,8 @@ Also specify gofmt by specifying the exact location i.e. %GOROOT%\bin. (Need to 
 6)You will also need to specify Go installation location and Eclipse GOPATH under 
 	Preferences -> Go
 	
+
+	
+Nittygritties
+a)pkg containing main should be named as main
+	
